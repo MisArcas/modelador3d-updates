@@ -1,0 +1,7 @@
+{
+  "version": "0.6.0",
+  "url": "https://github.com/MisArcas/modelador3d-updates/releases/download/v0.6.0/web-0.6.0.zip",
+  "sha256": "02ab7db07611395f096fd17b0211f26f038415b22743c7d6a1afdc710b6eb39e",
+  "notes": "Nuevo nombre: TU3D. Nuevo logo: un cubo con los ejes X (rojo), Y (verde) y Z (azul) saliendo de una esquina, en el encabezado y la pantalla de carga. El nombre y el ícono debajo del celular cambian con el APK nuevo (se instala encima, sin perder proyectos).",
+  "minNativeVersion": "0.4.0"
+}
