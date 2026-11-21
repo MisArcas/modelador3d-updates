@@ -1,0 +1,7 @@
+{
+  "version": "0.7.0",
+  "url": "https://github.com/MisArcas/modelador3d-updates/releases/download/v0.7.0/web-0.7.0.zip",
+  "sha256": "51be608e852b5afcb89c574a259a88991accee8781721b11274018fd48f6f7ac",
+  "notes": "Herramientas más fáciles de encontrar. Pieza/Cara/Arista pasan al principio del dock de abajo y al lado aparecen solo las herramientas de lo que elegiste: con varias aristas, Redondear y Chaflán con una sola medida; con varias piezas, Unir, Restar e Intersectar; con una cara, Empujar, Agujero, Textura y Boceto. El dock lateral tiene grupos plegables (Crear, Editar, Ver, Proyecto) que se abren con animación; podés abrir varios y los dos docks se deslizan. Los fantasmas ahora son ojos: abierto = visible, tachado = oculta, a medias = transparente. Mantené apretado un botón para ver su nombre.",
+  "minNativeVersion": "0.4.0"
+}
