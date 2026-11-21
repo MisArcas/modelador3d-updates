@@ -1,0 +1,7 @@
+{
+  "version": "0.8.0",
+  "url": "https://github.com/MisArcas/modelador3d-updates/releases/download/v0.8.0/web-0.8.0.zip",
+  "sha256": "b843830cb3d9c6e8a962a35f82f97b3ee0217ecb0ddcf07abf16f3aef104faff",
+  "notes": "Fila Transparente/Eliminar/Recuadro/Multi arriba de Pieza/Cara/Arista. En Ver: modos de escena (sólido, aristas, transparente, alambre, reflejos, arcilla, capas), ocultas como alambre punteado, Árbol jerárquico, Mostrar todo y Bloquear.",
+  "minNativeVersion": "0.4.0"
+}
