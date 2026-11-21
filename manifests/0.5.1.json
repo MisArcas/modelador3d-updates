@@ -1,0 +1,7 @@
+{
+  "version": "0.5.1",
+  "url": "https://github.com/MisArcas/modelador3d-updates/releases/download/v0.5.1/web-0.5.1.zip",
+  "sha256": "b35ec1d3cb7742604e61ce294eede7b810fee7f60556719d79e4b7422881b2f2",
+  "notes": "Arreglo: al borrar un movimiento (u otra operación) el panel de Detalles se cierra solo. Los paneles Detalles y Piezas tienen un botón ✕ para cerrarlos; en el celular también se cierran tocando el fondo oscuro, con el botón Detalles/Piezas del dock o con el botón Atrás de Android.",
+  "minNativeVersion": "0.4.0"
+}
