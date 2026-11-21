@@ -1,7 +1,7 @@
 {
-  "version": "0.4.0",
-  "url": "https://github.com/MisArcas/modelador3d-updates/releases/download/v0.4.0/web-0.4.0.zip",
-  "sha256": "9d9bcc2412691349d2e5723753d07cf6a5ea822fef13975a55993209deabee93",
-  "notes": "Primera versión con actualizaciones dentro de la app: al abrir el Modelador te avisa si hay algo nuevo.",
+  "version": "0.5.0",
+  "url": "https://github.com/MisArcas/modelador3d-updates/releases/download/v0.5.0/web-0.5.0.zip",
+  "sha256": "964fed18581b0817be36ed49e912018258b0b52f4307651f220d6c16c3881d5e",
+  "notes": "Nuevo diseño: dos docks fijos (abajo, las herramientas de lo que hacés con Aceptar/Cancelar; a la derecha, modos, crear, herramientas, vista y archivo). Arriba queda solo información y medidas. La selección múltiple muestra miniaturas de cada pieza con un ojo para ocultarla; tocá una miniatura para hacerla base (★, la que queda al Restar), quitarla, volverla transparente o eliminarla.",
   "minNativeVersion": "0.4.0"
 }
