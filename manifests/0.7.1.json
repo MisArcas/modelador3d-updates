@@ -1,0 +1,7 @@
+{
+  "version": "0.7.1",
+  "url": "https://github.com/MisArcas/modelador3d-updates/releases/download/v0.7.1/web-0.7.1.zip",
+  "sha256": "f42c8819af2bb8fa8c5633a2fb6a0dbe0776e4e88c2fc6a904c2e913a6a61815",
+  "notes": "Al tocar una operación del Historial (por ejemplo un movimiento) sus medidas se editan en el panel chico de arriba, igual que Redondear, en lugar de la hoja de Detalles. Los botones Suprimir, Eliminar y Ver pieza ahora son solo íconos (mantené apretado para ver el nombre). El panel se cierra con ✕, Atrás o al borrar la operación.",
+  "minNativeVersion": "0.4.0"
+}
