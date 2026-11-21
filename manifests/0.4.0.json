@@ -1,0 +1,7 @@
+{
+  "version": "0.4.0",
+  "url": "https://github.com/MisArcas/modelador3d-updates/releases/download/v0.4.0/web-0.4.0.zip",
+  "sha256": "9d9bcc2412691349d2e5723753d07cf6a5ea822fef13975a55993209deabee93",
+  "notes": "Primera versión con actualizaciones dentro de la app: al abrir el Modelador te avisa si hay algo nuevo.",
+  "minNativeVersion": "0.4.0"
+}
