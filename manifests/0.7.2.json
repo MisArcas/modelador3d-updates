@@ -1,0 +1,7 @@
+{
+  "version": "0.7.2",
+  "url": "https://github.com/MisArcas/modelador3d-updates/releases/download/v0.7.2/web-0.7.2.zip",
+  "sha256": "8a1708211894136a1efaed04decd76429638cc1aa2bc7471320501abe4bb983a",
+  "notes": "Agujeros centrados en la cara con forma de la cara (margen), cuadrado o círculo; se editan desde el Historial. El panel ya no pierde el cursor al editar.",
+  "minNativeVersion": "0.4.0"
+}
