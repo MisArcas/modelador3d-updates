@@ -1,7 +1,7 @@
 {
-  "version": "0.9.2",
-  "url": "https://github.com/MisArcas/modelador3d-updates/releases/download/v0.9.2/web-0.9.2.zip",
-  "sha256": "538b0ba5a63d9d33d49bb181b3ac5368f45322ed1c74464e42845ff4ba48db07",
-  "notes": "Tirar caras internas de agujeros: ajuste al ras, cierre completo y caras planas unificadas (sin astillas ni aristas internas)",
+  "version": "0.9.3",
+  "url": "https://github.com/MisArcas/modelador3d-updates/releases/download/v0.9.3/web-0.9.3.zip",
+  "sha256": "e31df19acf86170353c55e080623a801bf8de676e45d61adff57af21ab062519",
+  "notes": "Tirar caras internas sin láminas ni rendijas (prisma sellado), anillos planos reconocidos como cara plana, fila de selección fija en el dock, medida inicial 1 mm",
   "minNativeVersion": "0.4.0"
 }
