@@ -1,0 +1,7 @@
+{
+  "version": "0.9.1",
+  "url": "https://github.com/MisArcas/modelador3d-updates/releases/download/v0.9.1/web-0.9.1.zip",
+  "sha256": "02ce69a725ff84624deaa4d4f9d101cc534fcbadfe7d5852196c5b7d84de3353",
+  "notes": "Corte: botón Invertir y lado con texto visible en el celular; la cara cortada se ve sólida con rayado rojo y contorno blanco.",
+  "minNativeVersion": "0.4.0"
+}
