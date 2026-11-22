@@ -1,7 +1,7 @@
 {
-  "version": "0.9.3",
-  "url": "https://github.com/MisArcas/modelador3d-updates/releases/download/v0.9.3/web-0.9.3.zip",
-  "sha256": "e31df19acf86170353c55e080623a801bf8de676e45d61adff57af21ab062519",
-  "notes": "Tirar caras internas sin láminas ni rendijas (prisma sellado), anillos planos reconocidos como cara plana, fila de selección fija en el dock, medida inicial 1 mm",
+  "version": "0.9.4",
+  "url": "https://github.com/MisArcas/modelador3d-updates/releases/download/v0.9.4/web-0.9.4.zip",
+  "sha256": "f6587e00e02fa45bc102cf4d677cb8354600ccfc771178373a8dd1e9ed97d569",
+  "notes": "Desplazar cara curva en agujeros redondeados/circulares: offset 2D robusto + booleano, cierra el agujero limpio y avisa a cuántos mm cierra",
   "minNativeVersion": "0.4.0"
 }
