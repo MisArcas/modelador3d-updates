@@ -1,0 +1,7 @@
+{
+  "version": "0.9.0",
+  "url": "https://github.com/MisArcas/modelador3d-updates/releases/download/v0.9.0/web-0.9.0.zip",
+  "sha256": "6dd916bcb93d79821fd8e723fc16d387d209c6774f21976bd92c06482a7aab64",
+  "notes": "Corte mejorado: solo la pieza elegida, eje X/Y/Z y lado a elegir, posición a mano con vista previa del plano; se puede guardar en el Historial o partir en dos.",
+  "minNativeVersion": "0.4.0"
+}
