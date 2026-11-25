@@ -1,7 +1,10 @@
 {
-  "version": "0.10.0",
-  "url": "https://github.com/MisArcas/modelador3d-updates/releases/download/v0.10.0/web-0.10.0.zip",
-  "sha256": "032b3d234d195f6fce127b407e35c825550af4b068b103ddb113b5e43fa61b74",
-  "notes": "Corte fijo: al cerrar el panel el corte sigue; aparece en el Árbol con ojo para ocultarlo/mostrarlo, editar o quitar. Se guarda con el proyecto; el STL sale entero.",
-  "minNativeVersion": "0.4.0"
+  "version": "0.10.1",
+  "url": "https://github.com/MisArcas/modelador3d-updates/releases/download/v0.10.1/web-0.10.1.zip",
+  "sha256": "0fec55a0f798e60292675b5a5c67efb9f3cd5c0c321a7a90c0938f933b707fb1",
+  "notes": "El actualizador ya está listo para el cambio de nombre de la cuenta (2LGH/tu3d): busca las novedades en varios lugares y usa el primero que responde. Si hace falta un APK nuevo, el aviso trae el botón para descargarlo.",
+  "minNativeVersion": "0.4.0",
+  "repo": "MisArcas/modelador3d-updates",
+  "file": "web-0.10.1.zip",
+  "apk": "https://github.com/MisArcas/modelador3d-updates/releases/download/apk/TU3D.apk"
 }
