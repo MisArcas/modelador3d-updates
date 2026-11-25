@@ -1,0 +1,7 @@
+{
+  "version": "0.10.0",
+  "url": "https://github.com/MisArcas/modelador3d-updates/releases/download/v0.10.0/web-0.10.0.zip",
+  "sha256": "032b3d234d195f6fce127b407e35c825550af4b068b103ddb113b5e43fa61b74",
+  "notes": "Corte fijo: al cerrar el panel el corte sigue; aparece en el Árbol con ojo para ocultarlo/mostrarlo, editar o quitar. Se guarda con el proyecto; el STL sale entero.",
+  "minNativeVersion": "0.4.0"
+}
